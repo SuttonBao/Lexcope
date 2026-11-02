@@ -11,8 +11,13 @@ final class AppModel: ObservableObject {
     let store: StateStore
 
     init(store: StateStore? = nil) {
-        let directory = FileManager.default.urls(for: .applicationSupportDirectory, in: .userDomainMask)[0]
+        var directory = FileManager.default.urls(for: .applicationSupportDirectory, in: .userDomainMask)[0]
             .appendingPathComponent("Lexcope", isDirectory: true)
+        #if DEBUG
+        if let session = ProcessInfo.processInfo.environment["LEXCOPE_UI_TEST_SESSION"], UUID(uuidString: session) != nil {
+            directory = directory.appendingPathComponent("UITests/\(session)", isDirectory: true)
+        }
+        #endif
         self.store = store ?? StateStore(fileURL: directory.appendingPathComponent("state.json"))
         load()
     }

@@ -42,7 +42,7 @@ struct WordDetailView: View {
             }
             .background(Theme.canvas)
             .navigationTitle("单词详情").inlineTitle()
-            .toolbar { ToolbarItem(placement: .confirmationAction) { Button("完成") { dismiss() } } }
+            .toolbar { ToolbarItem(placement: .confirmationAction) { Button("完成") { dismiss() }.accessibilityIdentifier("close-details") } }
         }
     }
 

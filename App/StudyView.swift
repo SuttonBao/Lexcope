@@ -55,7 +55,7 @@ struct StudyView: View {
         .toolbar {
             ToolbarItem(placement: .cancellationAction) {
                 Button { undo() } label: { Label("撤销", systemImage: "arrow.uturn.backward") }
-                    .disabled(model.undoReceipt == nil)
+                    .disabled(model.undoReceipt == nil).accessibilityIdentifier("undo-rating")
             }
             ToolbarItem(placement: .primaryAction) {
                 Menu {
@@ -85,6 +85,7 @@ struct StudyView: View {
                         .padding(.horizontal, 16).padding(.vertical, 8)
                 }
                 .buttonStyle(.plain)
+                .accessibilityIdentifier("study-word")
                 .accessibilityLabel(word.term)
                 .accessibilityHint("轻点查看释义和例句")
                 Button { speech.speak(word.term, language: model.state?.settings.voiceLanguage ?? "en-GB") } label: {
@@ -92,6 +93,7 @@ struct StudyView: View {
                         .font(.title3).foregroundStyle(.secondary).padding(12)
                 }
                 .buttonStyle(.plain)
+                .accessibilityIdentifier("study-pronunciation")
                 .accessibilityLabel("播放 \(word.term) 的英语发音")
             }.padding(24)
             if let direction = SwipeDirection.classify(x: offset.width, y: offset.height, threshold: 35) {
@@ -102,6 +104,8 @@ struct StudyView: View {
                     .allowsHitTesting(false)
             }
         }
+        .accessibilityElement(children: .contain)
+        .accessibilityIdentifier("study-card")
         .frame(minHeight: 240, maxHeight: .infinity)
         .offset(offset)
         .rotationEffect(.degrees(reduceMotion ? 0 : Double(offset.width / 30)))
@@ -181,7 +185,7 @@ struct StudyView: View {
                 }
             }
             .navigationTitle("如何使用").inlineTitle()
-            .toolbar { ToolbarItem(placement: .confirmationAction) { Button("开始记忆") { showHelp = false } } }
+            .toolbar { ToolbarItem(placement: .confirmationAction) { Button("开始记忆") { showHelp = false }.accessibilityIdentifier("dismiss-study-help") } }
         }
     }
 }

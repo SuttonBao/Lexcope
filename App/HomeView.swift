@@ -90,7 +90,7 @@ struct HomeView: View {
             }
             Button(queue.wordIDs.isEmpty ? "查看学习状态" : "开始记忆") {
                 model.refresh(); isStudying = true
-            }.buttonStyle(PrimaryButtonStyle())
+            }.buttonStyle(PrimaryButtonStyle()).accessibilityIdentifier("start-study")
             Text("今日已学新词 \(queue.studiedNewToday) / \(state.settings.dailyNewLimit)")
                 .font(.footnote).foregroundStyle(.secondary)
         }.panel()

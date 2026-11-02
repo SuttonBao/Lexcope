@@ -66,7 +66,7 @@ struct LibraryView: View {
             Button { model.toggleDeck(deck.id) } label: {
                 Image(systemName: state.activeDeckIDs.contains(deck.id) ? "checkmark.circle.fill" : "circle")
                     .font(.title2).frame(minWidth: 44, minHeight: 44)
-            }.buttonStyle(.borderless)
+            }.buttonStyle(.borderless).accessibilityIdentifier("select-deck-\(deck.id)")
                 .accessibilityLabel("\(state.activeDeckIDs.contains(deck.id) ? "取消选择" : "选择")\(deck.title)")
                 .accessibilityAddTraits(state.activeDeckIDs.contains(deck.id) ? .isSelected : [])
             NavigationLink {
