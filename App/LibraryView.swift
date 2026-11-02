@@ -8,6 +8,7 @@ struct LibraryView: View {
     @State private var isParsing = false
     @State private var pending: ImportPreview?
     @State private var importError: String?
+    @State private var previewError: String?
     @State private var showImportHelp = false
 
     var body: some View {
@@ -122,9 +123,18 @@ struct LibraryView: View {
             .toolbar {
                 ToolbarItem(placement: .cancellationAction) { Button("取消") { pending = nil } }
                 ToolbarItem(placement: .confirmationAction) {
-                    Button("导入并选用") { if model.importVocabulary(preview.vocabulary) { pending = nil } }
+                    Button("导入并选用") {
+                        if model.importVocabulary(preview.vocabulary) { pending = nil }
+                        else {
+                            previewError = model.errorMessage ?? "请检查设备存储空间后重试。"
+                            model.errorMessage = nil
+                        }
+                    }
                 }
             }
+            .alert("导入未保存", isPresented: Binding(get: { previewError != nil }, set: { if !$0 { previewError = nil } })) {
+                Button("知道了", role: .cancel) { previewError = nil }
+            } message: { Text(previewError ?? "") }
         }
     }
 }

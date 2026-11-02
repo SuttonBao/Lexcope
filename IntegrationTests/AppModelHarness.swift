@@ -27,6 +27,7 @@ struct AppModelHarness {
         try FileManager.default.moveItem(at: preserved, to: directory)
 
         precondition(model.rate(word, .known))
+        precondition(model.errorMessage == nil, "Successful retry must clear the previous write error")
         let restored = AppModel(store: store)
         precondition(restored.state?.progress[word.id]?.reviewCount == 1)
         precondition(restored.queue.studiedNewToday == 1)

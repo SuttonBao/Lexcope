@@ -48,6 +48,7 @@ final class AppModel: ObservableObject {
             try edit(&updated)
             try store.save(updated)
             state = updated
+            errorMessage = nil
             refresh()
             return true
         } catch {
