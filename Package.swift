@@ -6,7 +6,7 @@ let package = Package(
     platforms: [.iOS(.v17), .macOS(.v14)],
     products: [.library(name: "LexcopeCore", targets: ["LexcopeCore"])],
     targets: [
-        .target(name: "LexcopeCore"),
+        .target(name: "LexcopeCore", resources: [.process("Resources")]),
         .testTarget(name: "LexcopeCoreTests", dependencies: ["LexcopeCore"])
     ]
 )

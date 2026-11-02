@@ -1,0 +1,1389 @@
+{
+  "words": [
+    {
+      "term": "remember",
+      "ipa": "/rɪˈmembə/",
+      "meaning": "记得；记住",
+      "definition": "To keep something in your mind or bring it back to mind.",
+      "examples": [
+        {
+          "english": "I remember our first conversation.",
+          "chinese": "我记得我们第一次交谈。"
+        }
+      ],
+      "etymology": null,
+      "collocations": [
+        "remember clearly",
+        "remember to call"
+      ],
+      "family": [
+        "memory",
+        "memorable"
+      ],
+      "source": "NGSL 1.2 选词 · Lexcope 学习释义 · CC BY-SA 4.0"
+    },
+    {
+      "term": "opportunity",
+      "ipa": "/ˌɒpəˈtjuːnəti/",
+      "meaning": "机会",
+      "definition": "A situation that makes it possible to do something.",
+      "examples": [
+        {
+          "english": "This course is an opportunity to practise speaking.",
+          "chinese": "这门课是练习口语的机会。"
+        }
+      ],
+      "etymology": null,
+      "collocations": [
+        "a good opportunity",
+        "take an opportunity"
+      ],
+      "family": [
+        "opportunities"
+      ],
+      "source": "NGSL 1.2 选词 · Lexcope 学习释义 · CC BY-SA 4.0"
+    },
+    {
+      "term": "available",
+      "ipa": "/əˈveɪləbl/",
+      "meaning": "可获得的；有空的",
+      "definition": "Ready for someone to use or able to meet someone.",
+      "examples": [
+        {
+          "english": "Are you available on Friday?",
+          "chinese": "你星期五有空吗？"
+        }
+      ],
+      "etymology": "构词提示：avail + 后缀 -able；-able 常表示“能够……的”。",
+      "collocations": [
+        "available online",
+        "readily available"
+      ],
+      "family": [
+        "availability",
+        "unavailable"
+      ],
+      "source": "NGSL 1.2 选词 · Lexcope 学习释义 · CC BY-SA 4.0"
+    },
+    {
+      "term": "approach",
+      "ipa": "/əˈprəʊtʃ/",
+      "meaning": "方法；接近",
+      "definition": "A way of dealing with a task or problem.",
+      "examples": [
+        {
+          "english": "We need a different approach to this problem.",
+          "chinese": "我们需要用不同的方法解决这个问题。"
+        }
+      ],
+      "etymology": null,
+      "collocations": [
+        "a practical approach",
+        "approach a problem"
+      ],
+      "family": [
+        "approachable"
+      ],
+      "source": "NGSL 1.2 选词 · Lexcope 学习释义 · CC BY-SA 4.0"
+    },
+    {
+      "term": "benefit",
+      "ipa": "/ˈbenɪfɪt/",
+      "meaning": "好处；使受益",
+      "definition": "A helpful result or something that improves a situation.",
+      "examples": [
+        {
+          "english": "Regular reading has many benefits.",
+          "chinese": "经常阅读有很多好处。"
+        }
+      ],
+      "etymology": null,
+      "collocations": [
+        "health benefits",
+        "benefit from"
+      ],
+      "family": [
+        "beneficial"
+      ],
+      "source": "NGSL 1.2 选词 · Lexcope 学习释义 · CC BY-SA 4.0"
+    },
+    {
+      "term": "improve",
+      "ipa": "/ɪmˈpruːv/",
+      "meaning": "改善；提高",
+      "definition": "To become better or make something better.",
+      "examples": [
+        {
+          "english": "My listening has improved this month.",
+          "chinese": "这个月我的听力提高了。"
+        }
+      ],
+      "etymology": "词族提示：improve 加 -ment 构成名词 improvement。此处不推断历史词源。",
+      "collocations": [
+        "improve gradually",
+        "improve performance"
+      ],
+      "family": [
+        "improvement"
+      ],
+      "source": "NGSL 1.2 选词 · Lexcope 学习释义 · CC BY-SA 4.0"
+    },
+    {
+      "term": "essential",
+      "ipa": "/ɪˈsenʃl/",
+      "meaning": "必不可少的",
+      "definition": "Needed for something to work or happen.",
+      "examples": [
+        {
+          "english": "Sleep is essential for learning.",
+          "chinese": "睡眠对学习必不可少。"
+        }
+      ],
+      "etymology": null,
+      "collocations": [
+        "essential skills",
+        "essential for"
+      ],
+      "family": [
+        "essentially"
+      ],
+      "source": "NGSL 1.2 选词 · Lexcope 学习释义 · CC BY-SA 4.0"
+    },
+    {
+      "term": "environment",
+      "ipa": "/ɪnˈvaɪrənmənt/",
+      "meaning": "环境",
+      "definition": "The conditions or natural surroundings in which we live.",
+      "examples": [
+        {
+          "english": "Plants need the right environment to grow.",
+          "chinese": "植物需要合适的环境才能生长。"
+        }
+      ],
+      "etymology": null,
+      "collocations": [
+        "natural environment",
+        "protect the environment"
+      ],
+      "family": [
+        "environmental",
+        "environmentally"
+      ],
+      "source": "NGSL 1.2 选词 · Lexcope 学习释义 · CC BY-SA 4.0"
+    },
+    {
+      "term": "knowledge",
+      "ipa": "/ˈnɒlɪdʒ/",
+      "meaning": "知识；了解",
+      "definition": "Information and understanding gained through learning or experience.",
+      "examples": [
+        {
+          "english": "She has a good knowledge of local history.",
+          "chinese": "她很了解当地历史。"
+        }
+      ],
+      "etymology": null,
+      "collocations": [
+        "gain knowledge",
+        "practical knowledge"
+      ],
+      "family": [
+        "knowledgeable"
+      ],
+      "source": "NGSL 1.2 选词 · Lexcope 学习释义 · CC BY-SA 4.0"
+    },
+    {
+      "term": "achieve",
+      "ipa": "/əˈtʃiːv/",
+      "meaning": "达成；取得",
+      "definition": "To succeed in doing something after effort.",
+      "examples": [
+        {
+          "english": "Small daily steps help us achieve our goals.",
+          "chinese": "每天迈出的小步帮助我们实现目标。"
+        }
+      ],
+      "etymology": null,
+      "collocations": [
+        "achieve a goal",
+        "achieve success"
+      ],
+      "family": [
+        "achievement",
+        "achievable"
+      ],
+      "source": "NGSL 1.2 选词 · Lexcope 学习释义 · CC BY-SA 4.0"
+    },
+    {
+      "term": "experience",
+      "ipa": "/ɪkˈspɪəriəns/",
+      "meaning": "经历；经验",
+      "definition": "Knowledge gained by doing things or an event that happens to you.",
+      "examples": [
+        {
+          "english": "The job gave me useful experience.",
+          "chinese": "这份工作给了我有用的经验。"
+        }
+      ],
+      "etymology": null,
+      "collocations": [
+        "work experience",
+        "gain experience"
+      ],
+      "family": [
+        "experienced"
+      ],
+      "source": "NGSL 1.2 选词 · Lexcope 学习释义 · CC BY-SA 4.0"
+    },
+    {
+      "term": "reliable",
+      "ipa": "/rɪˈlaɪəbl/",
+      "meaning": "可靠的",
+      "definition": "Able to be trusted to work well or do what is expected.",
+      "examples": [
+        {
+          "english": "We need reliable information before deciding.",
+          "chinese": "我们需要可靠的信息再作决定。"
+        }
+      ],
+      "etymology": "构词提示：rely 变 y 为 i 后接 -able；相关名词为 reliability。",
+      "collocations": [
+        "a reliable source",
+        "reliable service"
+      ],
+      "family": [
+        "reliability",
+        "rely"
+      ],
+      "source": "NGSL 1.2 选词 · Lexcope 学习释义 · CC BY-SA 4.0"
+    },
+    {
+      "term": "appointment",
+      "ipa": "/əˈpɔɪntmənt/",
+      "meaning": "预约；约定",
+      "definition": "An arrangement to meet someone at a particular time.",
+      "examples": [
+        {
+          "english": "I have an appointment at ten.",
+          "chinese": "我十点有一个预约。"
+        }
+      ],
+      "etymology": "构词提示：appoint + -ment；-ment 常构成表示行为或结果的名词。",
+      "collocations": [
+        "book an appointment",
+        "make an appointment"
+      ],
+      "family": [
+        "appoint"
+      ],
+      "source": "NGSL 1.2 选词 · Lexcope 学习释义 · CC BY-SA 4.0"
+    },
+    {
+      "term": "choice",
+      "ipa": "/tʃɔɪs/",
+      "meaning": "选择；可选项",
+      "definition": "The act of selecting something or an option you can select.",
+      "examples": [
+        {
+          "english": "You have a choice of two courses.",
+          "chinese": "你可以从两门课中选一门。"
+        }
+      ],
+      "etymology": null,
+      "collocations": [
+        "make a choice",
+        "a wide choice"
+      ],
+      "family": [
+        "choose",
+        "chosen"
+      ],
+      "source": "NGSL 1.2 选词 · Lexcope 学习释义 · CC BY-SA 4.0"
+    },
+    {
+      "term": "journey",
+      "ipa": "/ˈdʒɜːni/",
+      "meaning": "旅程",
+      "definition": "A trip from one place to another.",
+      "examples": [
+        {
+          "english": "The train journey took two hours.",
+          "chinese": "这趟火车旅程花了两小时。"
+        }
+      ],
+      "etymology": null,
+      "collocations": [
+        "a long journey",
+        "begin a journey"
+      ],
+      "family": [
+        "journeys"
+      ],
+      "source": "NGSL 1.2 选词 · Lexcope 学习释义 · CC BY-SA 4.0"
+    },
+    {
+      "term": "purchase",
+      "ipa": "/ˈpɜːtʃəs/",
+      "meaning": "购买；购买的东西",
+      "definition": "To buy something, or something you have bought.",
+      "examples": [
+        {
+          "english": "You can purchase tickets at the station.",
+          "chinese": "你可以在车站买票。"
+        }
+      ],
+      "etymology": null,
+      "collocations": [
+        "make a purchase",
+        "purchase online"
+      ],
+      "family": [
+        "purchaser"
+      ],
+      "source": "NGSL 1.2 选词 · Lexcope 学习释义 · CC BY-SA 4.0"
+    },
+    {
+      "term": "recommend",
+      "ipa": "/ˌrekəˈmend/",
+      "meaning": "推荐；建议",
+      "definition": "To suggest that something is useful or worth doing.",
+      "examples": [
+        {
+          "english": "Can you recommend a book for beginners?",
+          "chinese": "你能推荐一本适合初学者的书吗？"
+        }
+      ],
+      "etymology": null,
+      "collocations": [
+        "highly recommend",
+        "recommend a course"
+      ],
+      "family": [
+        "recommendation"
+      ],
+      "source": "NGSL 1.2 选词 · Lexcope 学习释义 · CC BY-SA 4.0"
+    },
+    {
+      "term": "prefer",
+      "ipa": "/prɪˈfɜː/",
+      "meaning": "更喜欢",
+      "definition": "To like or want one thing more than another.",
+      "examples": [
+        {
+          "english": "I prefer studying in the morning.",
+          "chinese": "我更喜欢在早晨学习。"
+        }
+      ],
+      "etymology": null,
+      "collocations": [
+        "prefer to do",
+        "prefer one to another"
+      ],
+      "family": [
+        "preference",
+        "preferable"
+      ],
+      "source": "NGSL 1.2 选词 · Lexcope 学习释义 · CC BY-SA 4.0"
+    },
+    {
+      "term": "arrange",
+      "ipa": "/əˈreɪndʒ/",
+      "meaning": "安排；整理",
+      "definition": "To make plans for something or put things in order.",
+      "examples": [
+        {
+          "english": "Let's arrange a time to meet.",
+          "chinese": "我们安排一个见面的时间吧。"
+        }
+      ],
+      "etymology": null,
+      "collocations": [
+        "arrange a meeting",
+        "arrange in order"
+      ],
+      "family": [
+        "arrangement"
+      ],
+      "source": "NGSL 1.2 选词 · Lexcope 学习释义 · CC BY-SA 4.0"
+    },
+    {
+      "term": "borrow",
+      "ipa": "/ˈbɒrəʊ/",
+      "meaning": "借入",
+      "definition": "To use something belonging to someone else and return it later.",
+      "examples": [
+        {
+          "english": "May I borrow your dictionary?",
+          "chinese": "我可以借用你的词典吗？"
+        }
+      ],
+      "etymology": null,
+      "collocations": [
+        "borrow a book",
+        "borrow from"
+      ],
+      "family": [
+        "borrower"
+      ],
+      "source": "NGSL 1.2 选词 · Lexcope 学习释义 · CC BY-SA 4.0"
+    },
+    {
+      "term": "return",
+      "ipa": "/rɪˈtɜːn/",
+      "meaning": "返回；归还",
+      "definition": "To go back or give something back.",
+      "examples": [
+        {
+          "english": "Please return the book next week.",
+          "chinese": "请下周归还这本书。"
+        }
+      ],
+      "etymology": null,
+      "collocations": [
+        "return home",
+        "return a book"
+      ],
+      "family": [
+        "returning"
+      ],
+      "source": "NGSL 1.2 选词 · Lexcope 学习释义 · CC BY-SA 4.0"
+    },
+    {
+      "term": "afford",
+      "ipa": "/əˈfɔːd/",
+      "meaning": "负担得起",
+      "definition": "To have enough money or time for something.",
+      "examples": [
+        {
+          "english": "We can afford a short holiday this year.",
+          "chinese": "今年我们负担得起一次短途假期。"
+        }
+      ],
+      "etymology": null,
+      "collocations": [
+        "afford to buy",
+        "can afford"
+      ],
+      "family": [
+        "affordable",
+        "affordability"
+      ],
+      "source": "NGSL 1.2 选词 · Lexcope 学习释义 · CC BY-SA 4.0"
+    },
+    {
+      "term": "community",
+      "ipa": "/kəˈmjuːnəti/",
+      "meaning": "社区；群体",
+      "definition": "People who live in one area or share an interest.",
+      "examples": [
+        {
+          "english": "The library is important to our community.",
+          "chinese": "图书馆对我们社区很重要。"
+        }
+      ],
+      "etymology": null,
+      "collocations": [
+        "local community",
+        "community centre"
+      ],
+      "family": [
+        "communities"
+      ],
+      "source": "NGSL 1.2 选词 · Lexcope 学习释义 · CC BY-SA 4.0"
+    },
+    {
+      "term": "habit",
+      "ipa": "/ˈhæbɪt/",
+      "meaning": "习惯",
+      "definition": "Something you do regularly, often without thinking.",
+      "examples": [
+        {
+          "english": "Reviewing words has become a daily habit.",
+          "chinese": "复习单词已经成了每天的习惯。"
+        }
+      ],
+      "etymology": null,
+      "collocations": [
+        "form a habit",
+        "a daily habit"
+      ],
+      "family": [
+        "habitual"
+      ],
+      "source": "NGSL 1.2 选词 · Lexcope 学习释义 · CC BY-SA 4.0"
+    },
+    {
+      "term": "allocate",
+      "ipa": "/ˈæləkeɪt/",
+      "meaning": "分配",
+      "definition": "To decide how to share time, money, or other resources.",
+      "examples": [
+        {
+          "english": "The team allocated more time to testing.",
+          "chinese": "团队分配了更多时间用于测试。"
+        }
+      ],
+      "etymology": null,
+      "collocations": [
+        "allocate resources",
+        "allocate time"
+      ],
+      "family": [
+        "allocation"
+      ],
+      "source": "NAWL 1.2 选词 · Lexcope 学习释义 · CC BY-SA 4.0"
+    },
+    {
+      "term": "absorb",
+      "ipa": "/əbˈzɔːb/",
+      "meaning": "吸收；理解",
+      "definition": "To take in a substance or information.",
+      "examples": [
+        {
+          "english": "Dry soil absorbs water quickly.",
+          "chinese": "干燥的土壤很快就吸收了水。"
+        }
+      ],
+      "etymology": null,
+      "collocations": [
+        "absorb water",
+        "absorb information"
+      ],
+      "family": [
+        "absorption",
+        "absorbent"
+      ],
+      "source": "NAWL 1.2 选词 · Lexcope 学习释义 · CC BY-SA 4.0"
+    },
+    {
+      "term": "accumulate",
+      "ipa": "/əˈkjuːmjəleɪt/",
+      "meaning": "积累",
+      "definition": "To gradually collect or increase over time.",
+      "examples": [
+        {
+          "english": "Evidence accumulated over several years.",
+          "chinese": "证据在数年间逐渐积累。"
+        }
+      ],
+      "etymology": null,
+      "collocations": [
+        "accumulate evidence",
+        "accumulate wealth"
+      ],
+      "family": [
+        "accumulation"
+      ],
+      "source": "NAWL 1.2 选词 · Lexcope 学习释义 · CC BY-SA 4.0"
+    },
+    {
+      "term": "accuracy",
+      "ipa": "/ˈækjərəsi/",
+      "meaning": "准确性",
+      "definition": "The degree to which something is correct or exact.",
+      "examples": [
+        {
+          "english": "Check the accuracy of the measurements.",
+          "chinese": "检查测量结果的准确性。"
+        }
+      ],
+      "etymology": "词族提示：形容词 accurate 对应名词 accuracy 和副词 accurately。",
+      "collocations": [
+        "improve accuracy",
+        "measurement accuracy"
+      ],
+      "family": [
+        "accurate",
+        "accurately"
+      ],
+      "source": "NAWL 1.2 选词 · Lexcope 学习释义 · CC BY-SA 4.0"
+    },
+    {
+      "term": "adjacent",
+      "ipa": "/əˈdʒeɪsnt/",
+      "meaning": "相邻的",
+      "definition": "Next to something or very close to it.",
+      "examples": [
+        {
+          "english": "The laboratory is adjacent to the library.",
+          "chinese": "实验室紧挨着图书馆。"
+        }
+      ],
+      "etymology": null,
+      "collocations": [
+        "adjacent to",
+        "adjacent buildings"
+      ],
+      "family": [
+        "adjacency"
+      ],
+      "source": "NAWL 1.2 选词 · Lexcope 学习释义 · CC BY-SA 4.0"
+    },
+    {
+      "term": "agriculture",
+      "ipa": "/ˈæɡrɪkʌltʃə/",
+      "meaning": "农业",
+      "definition": "The work of growing crops and raising animals for food.",
+      "examples": [
+        {
+          "english": "Rainfall affects agriculture in this region.",
+          "chinese": "降雨影响这一地区的农业。"
+        }
+      ],
+      "etymology": null,
+      "collocations": [
+        "sustainable agriculture",
+        "agricultural land"
+      ],
+      "family": [
+        "agricultural"
+      ],
+      "source": "NAWL 1.2 选词 · Lexcope 学习释义 · CC BY-SA 4.0"
+    },
+    {
+      "term": "analogy",
+      "ipa": "/əˈnælədʒi/",
+      "meaning": "类比",
+      "definition": "A comparison used to explain a similarity between different things.",
+      "examples": [
+        {
+          "english": "She used an analogy to explain the process.",
+          "chinese": "她用一个类比来解释这个过程。"
+        }
+      ],
+      "etymology": null,
+      "collocations": [
+        "draw an analogy",
+        "an analogy between"
+      ],
+      "family": [
+        "analogous"
+      ],
+      "source": "NAWL 1.2 选词 · Lexcope 学习释义 · CC BY-SA 4.0"
+    },
+    {
+      "term": "arbitrary",
+      "ipa": "/ˈɑːbɪtrəri/",
+      "meaning": "任意的；缺乏明确依据的",
+      "definition": "Based on a choice rather than a clear rule or reason.",
+      "examples": [
+        {
+          "english": "The limit seemed arbitrary.",
+          "chinese": "这个限制似乎缺乏明确依据。"
+        }
+      ],
+      "etymology": null,
+      "collocations": [
+        "an arbitrary decision",
+        "an arbitrary limit"
+      ],
+      "family": [
+        "arbitrarily"
+      ],
+      "source": "NAWL 1.2 选词 · Lexcope 学习释义 · CC BY-SA 4.0"
+    },
+    {
+      "term": "artificial",
+      "ipa": "/ˌɑːtɪˈfɪʃl/",
+      "meaning": "人工的；人造的",
+      "definition": "Made by people rather than occurring naturally.",
+      "examples": [
+        {
+          "english": "The room has artificial lighting.",
+          "chinese": "这个房间使用人工照明。"
+        }
+      ],
+      "etymology": null,
+      "collocations": [
+        "artificial intelligence",
+        "artificial light"
+      ],
+      "family": [
+        "artificially"
+      ],
+      "source": "NAWL 1.2 选词 · Lexcope 学习释义 · CC BY-SA 4.0"
+    },
+    {
+      "term": "biodiversity",
+      "ipa": "/ˌbaɪəʊdaɪˈvɜːsəti/",
+      "meaning": "生物多样性",
+      "definition": "The variety of living things in a place.",
+      "examples": [
+        {
+          "english": "Forest loss threatens biodiversity.",
+          "chinese": "森林减少威胁着生物多样性。"
+        }
+      ],
+      "etymology": "构词提示：bio-（生命、生物）+ diversity（多样性）。",
+      "collocations": [
+        "protect biodiversity",
+        "biodiversity loss"
+      ],
+      "family": [
+        "diverse",
+        "diversity"
+      ],
+      "source": "NAWL 1.2 选词 · Lexcope 学习释义 · CC BY-SA 4.0"
+    },
+    {
+      "term": "cognitive",
+      "ipa": "/ˈkɒɡnətɪv/",
+      "meaning": "认知的",
+      "definition": "Related to thinking, learning, and understanding.",
+      "examples": [
+        {
+          "english": "The study examined cognitive development.",
+          "chinese": "这项研究考察了认知发展。"
+        }
+      ],
+      "etymology": null,
+      "collocations": [
+        "cognitive skills",
+        "cognitive development"
+      ],
+      "family": [
+        "cognition"
+      ],
+      "source": "NAWL 1.2 选词 · Lexcope 学习释义 · CC BY-SA 4.0"
+    },
+    {
+      "term": "coherent",
+      "ipa": "/kəʊˈhɪərənt/",
+      "meaning": "连贯的；条理清楚的",
+      "definition": "Clear and logically connected so that it is easy to understand.",
+      "examples": [
+        {
+          "english": "Present your argument in a coherent order.",
+          "chinese": "按照连贯的顺序陈述你的论点。"
+        }
+      ],
+      "etymology": null,
+      "collocations": [
+        "a coherent argument",
+        "a coherent explanation"
+      ],
+      "family": [
+        "coherence",
+        "coherently"
+      ],
+      "source": "NAWL 1.2 选词 · Lexcope 学习释义 · CC BY-SA 4.0"
+    },
+    {
+      "term": "compensate",
+      "ipa": "/ˈkɒmpenseɪt/",
+      "meaning": "补偿；弥补",
+      "definition": "To make up for a loss or an unwanted effect.",
+      "examples": [
+        {
+          "english": "Extra practice can compensate for limited experience.",
+          "chinese": "更多练习可以弥补经验不足。"
+        }
+      ],
+      "etymology": null,
+      "collocations": [
+        "compensate for",
+        "compensate workers"
+      ],
+      "family": [
+        "compensation"
+      ],
+      "source": "NAWL 1.2 选词 · Lexcope 学习释义 · CC BY-SA 4.0"
+    },
+    {
+      "term": "consensus",
+      "ipa": "/kənˈsensəs/",
+      "meaning": "共识",
+      "definition": "General agreement among a group of people.",
+      "examples": [
+        {
+          "english": "The committee reached a consensus.",
+          "chinese": "委员会达成了共识。"
+        }
+      ],
+      "etymology": null,
+      "collocations": [
+        "reach a consensus",
+        "a broad consensus"
+      ],
+      "family": [
+        "consensual"
+      ],
+      "source": "NAWL 1.2 选词 · Lexcope 学习释义 · CC BY-SA 4.0"
+    },
+    {
+      "term": "conservation",
+      "ipa": "/ˌkɒnsəˈveɪʃn/",
+      "meaning": "保护；节约",
+      "definition": "The protection of nature or the careful use of resources.",
+      "examples": [
+        {
+          "english": "Water conservation is important during droughts.",
+          "chinese": "干旱期间节约用水很重要。"
+        }
+      ],
+      "etymology": "词族提示：动词 conserve 对应名词 conservation。",
+      "collocations": [
+        "wildlife conservation",
+        "energy conservation"
+      ],
+      "family": [
+        "conserve",
+        "conservationist"
+      ],
+      "source": "NAWL 1.2 选词 · Lexcope 学习释义 · CC BY-SA 4.0"
+    },
+    {
+      "term": "contradict",
+      "ipa": "/ˌkɒntrəˈdɪkt/",
+      "meaning": "与……矛盾；反驳",
+      "definition": "To state the opposite of something or show it cannot be true.",
+      "examples": [
+        {
+          "english": "The new results contradict the earlier report.",
+          "chinese": "新结果与之前的报告相矛盾。"
+        }
+      ],
+      "etymology": null,
+      "collocations": [
+        "contradict a claim",
+        "contradict the evidence"
+      ],
+      "family": [
+        "contradiction",
+        "contradictory"
+      ],
+      "source": "NAWL 1.2 选词 · Lexcope 学习释义 · CC BY-SA 4.0"
+    },
+    {
+      "term": "correlate",
+      "ipa": "/ˈkɒrəleɪt/",
+      "meaning": "相关联",
+      "definition": "To have a relationship in which things tend to change together.",
+      "examples": [
+        {
+          "english": "The researchers asked whether the two measures correlate.",
+          "chinese": "研究人员探究了这两项指标是否相关。"
+        }
+      ],
+      "etymology": null,
+      "collocations": [
+        "correlate with",
+        "strongly correlate"
+      ],
+      "family": [
+        "correlation"
+      ],
+      "source": "NAWL 1.2 选词 · Lexcope 学习释义 · CC BY-SA 4.0"
+    },
+    {
+      "term": "empirical",
+      "ipa": "/ɪmˈpɪrɪkl/",
+      "meaning": "基于观察或实验的；实证的",
+      "definition": "Based on observations or experiments rather than theory alone.",
+      "examples": [
+        {
+          "english": "The theory needs empirical support.",
+          "chinese": "这个理论需要实证支持。"
+        }
+      ],
+      "etymology": null,
+      "collocations": [
+        "empirical evidence",
+        "empirical research"
+      ],
+      "family": [
+        "empirically"
+      ],
+      "source": "NAWL 1.2 选词 · Lexcope 学习释义 · CC BY-SA 4.0"
+    },
+    {
+      "term": "explicit",
+      "ipa": "/ɪkˈsplɪsɪt/",
+      "meaning": "明确的",
+      "definition": "Stated clearly and directly.",
+      "examples": [
+        {
+          "english": "The instructions gave explicit examples.",
+          "chinese": "说明中给出了明确的例子。"
+        }
+      ],
+      "etymology": null,
+      "collocations": [
+        "explicit instructions",
+        "make explicit"
+      ],
+      "family": [
+        "explicitly"
+      ],
+      "source": "NAWL 1.2 选词 · Lexcope 学习释义 · CC BY-SA 4.0"
+    },
+    {
+      "term": "facilitate",
+      "ipa": "/fəˈsɪlɪteɪt/",
+      "meaning": "促进；使更容易",
+      "definition": "To make an action or process easier.",
+      "examples": [
+        {
+          "english": "Clear diagrams facilitate understanding.",
+          "chinese": "清晰的图表有助于理解。"
+        }
+      ],
+      "etymology": null,
+      "collocations": [
+        "facilitate learning",
+        "facilitate communication"
+      ],
+      "family": [
+        "facilitation",
+        "facilitator"
+      ],
+      "source": "NAWL 1.2 选词 · Lexcope 学习释义 · CC BY-SA 4.0"
+    },
+    {
+      "term": "inference",
+      "ipa": "/ˈɪnfərəns/",
+      "meaning": "推论；推断",
+      "definition": "A conclusion drawn from evidence and reasoning.",
+      "examples": [
+        {
+          "english": "The inference was based on limited evidence.",
+          "chinese": "这个推论建立在有限的证据上。"
+        }
+      ],
+      "etymology": null,
+      "collocations": [
+        "draw an inference",
+        "statistical inference"
+      ],
+      "family": [
+        "infer"
+      ],
+      "source": "NAWL 1.2 选词 · Lexcope 学习释义 · CC BY-SA 4.0"
+    },
+    {
+      "term": "methodology",
+      "ipa": "/ˌmeθəˈdɒlədʒi/",
+      "meaning": "方法论；研究方法体系",
+      "definition": "The system of methods used in a field or study.",
+      "examples": [
+        {
+          "english": "The paper describes the research methodology.",
+          "chinese": "论文描述了研究方法体系。"
+        }
+      ],
+      "etymology": null,
+      "collocations": [
+        "research methodology",
+        "a clear methodology"
+      ],
+      "family": [
+        "methodological"
+      ],
+      "source": "NAWL 1.2 选词 · Lexcope 学习释义 · CC BY-SA 4.0"
+    },
+    {
+      "term": "quantitative",
+      "ipa": "/ˈkwɒntɪtətɪv/",
+      "meaning": "定量的",
+      "definition": "Related to amounts that can be counted or measured.",
+      "examples": [
+        {
+          "english": "The team collected quantitative data.",
+          "chinese": "团队收集了定量数据。"
+        }
+      ],
+      "etymology": "词族提示：与 quantity（数量）、quantify（量化）一起记忆。",
+      "collocations": [
+        "quantitative analysis",
+        "quantitative data"
+      ],
+      "family": [
+        "quantity",
+        "quantify"
+      ],
+      "source": "NAWL 1.2 选词 · Lexcope 学习释义 · CC BY-SA 4.0"
+    },
+    {
+      "term": "qualitative",
+      "ipa": "/ˈkwɒlɪtətɪv/",
+      "meaning": "定性的",
+      "definition": "Related to qualities or descriptions rather than numerical amounts.",
+      "examples": [
+        {
+          "english": "Interviews provided qualitative evidence.",
+          "chinese": "访谈提供了定性证据。"
+        }
+      ],
+      "etymology": "词族提示：与 quality（性质、质量）一起记忆。",
+      "collocations": [
+        "qualitative research",
+        "qualitative data"
+      ],
+      "family": [
+        "quality"
+      ],
+      "source": "NAWL 1.2 选词 · Lexcope 学习释义 · CC BY-SA 4.0"
+    },
+    {
+      "term": "in advance",
+      "ipa": "/ɪn ədˈvɑːns/",
+      "meaning": "提前",
+      "definition": "Before the time when something happens.",
+      "examples": [
+        {
+          "english": "Please book your ticket in advance.",
+          "chinese": "请提前订票。"
+        }
+      ],
+      "etymology": null,
+      "collocations": [
+        "book in advance",
+        "pay in advance"
+      ],
+      "family": [
+        "advance"
+      ],
+      "source": "Lexcope 原创生活短语 · CC BY-SA 4.0"
+    },
+    {
+      "term": "on behalf of",
+      "ipa": "/ɒn bɪˈhɑːf əv/",
+      "meaning": "代表；为了……的利益",
+      "definition": "Acting for another person or group.",
+      "examples": [
+        {
+          "english": "I am writing on behalf of our team.",
+          "chinese": "我代表我们团队写信。"
+        }
+      ],
+      "etymology": null,
+      "collocations": [
+        "speak on behalf of",
+        "act on behalf of"
+      ],
+      "family": [
+        "behalf"
+      ],
+      "source": "Lexcope 原创生活短语 · CC BY-SA 4.0"
+    },
+    {
+      "term": "keep in mind",
+      "ipa": "/kiːp ɪn maɪnd/",
+      "meaning": "记住；考虑到",
+      "definition": "To remember a fact while thinking about something.",
+      "examples": [
+        {
+          "english": "Keep in mind that the library closes at six.",
+          "chinese": "请记住图书馆六点关门。"
+        }
+      ],
+      "etymology": null,
+      "collocations": [
+        "keep this in mind",
+        "keep in mind that"
+      ],
+      "family": [
+        "mind"
+      ],
+      "source": "Lexcope 原创生活短语 · CC BY-SA 4.0"
+    },
+    {
+      "term": "take part in",
+      "ipa": "/teɪk pɑːt ɪn/",
+      "meaning": "参加",
+      "definition": "To join others in an activity.",
+      "examples": [
+        {
+          "english": "Many students took part in the discussion.",
+          "chinese": "许多学生参加了讨论。"
+        }
+      ],
+      "etymology": null,
+      "collocations": [
+        "take part in a discussion",
+        "take part in an event"
+      ],
+      "family": [
+        "participant",
+        "participate"
+      ],
+      "source": "Lexcope 原创生活短语 · CC BY-SA 4.0"
+    },
+    {
+      "term": "as a result",
+      "ipa": "/əz ə rɪˈzʌlt/",
+      "meaning": "因此；结果",
+      "definition": "Used to introduce what happened because of something else.",
+      "examples": [
+        {
+          "english": "It rained all night. As a result, the road flooded.",
+          "chinese": "雨下了一夜，因此道路被淹了。"
+        }
+      ],
+      "etymology": null,
+      "collocations": [
+        "as a result of",
+        "as a direct result"
+      ],
+      "family": [
+        "result"
+      ],
+      "source": "Lexcope 原创生活短语 · CC BY-SA 4.0"
+    },
+    {
+      "term": "in terms of",
+      "ipa": "/ɪn tɜːmz əv/",
+      "meaning": "就……而言",
+      "definition": "Used to describe the particular aspect being considered.",
+      "examples": [
+        {
+          "english": "Compare the options in terms of cost.",
+          "chinese": "从成本方面比较这些选项。"
+        }
+      ],
+      "etymology": null,
+      "collocations": [
+        "in terms of cost",
+        "in terms of quality"
+      ],
+      "family": [
+        "term"
+      ],
+      "source": "Lexcope 原创生活短语 · CC BY-SA 4.0"
+    },
+    {
+      "term": "make sense",
+      "ipa": "/meɪk sens/",
+      "meaning": "有道理；可以理解",
+      "definition": "To be understandable or reasonable.",
+      "examples": [
+        {
+          "english": "Your explanation makes sense.",
+          "chinese": "你的解释很有道理。"
+        }
+      ],
+      "etymology": null,
+      "collocations": [
+        "make sense of",
+        "make perfect sense"
+      ],
+      "family": [
+        "sense",
+        "sensible"
+      ],
+      "source": "Lexcope 原创生活短语 · CC BY-SA 4.0"
+    },
+    {
+      "term": "take into account",
+      "ipa": "/teɪk ˈɪntə əˈkaʊnt/",
+      "meaning": "考虑到",
+      "definition": "To consider something when making a decision.",
+      "examples": [
+        {
+          "english": "Take travel time into account.",
+          "chinese": "要把路上花的时间考虑进去。"
+        }
+      ],
+      "etymology": null,
+      "collocations": [
+        "take costs into account",
+        "take differences into account"
+      ],
+      "family": [
+        "account"
+      ],
+      "source": "Lexcope 原创生活短语 · CC BY-SA 4.0"
+    },
+    {
+      "term": "from time to time",
+      "ipa": "/frəm taɪm tə taɪm/",
+      "meaning": "偶尔；不时",
+      "definition": "Sometimes, but not regularly.",
+      "examples": [
+        {
+          "english": "We meet for coffee from time to time.",
+          "chinese": "我们偶尔见面喝咖啡。"
+        }
+      ],
+      "etymology": null,
+      "collocations": [
+        "visit from time to time",
+        "check from time to time"
+      ],
+      "family": [
+        "time"
+      ],
+      "source": "Lexcope 原创生活短语 · CC BY-SA 4.0"
+    },
+    {
+      "term": "look forward to",
+      "ipa": "/lʊk ˈfɔːwəd tə/",
+      "meaning": "期待",
+      "definition": "To feel pleased about something that will happen.",
+      "examples": [
+        {
+          "english": "I look forward to hearing from you.",
+          "chinese": "我期待收到你的来信。"
+        }
+      ],
+      "etymology": null,
+      "collocations": [
+        "look forward to meeting",
+        "look forward to a visit"
+      ],
+      "family": [
+        "forward"
+      ],
+      "source": "Lexcope 原创生活短语 · CC BY-SA 4.0"
+    },
+    {
+      "term": "by contrast",
+      "ipa": "/baɪ ˈkɒntrɑːst/",
+      "meaning": "相比之下",
+      "definition": "Used to show how two things are different.",
+      "examples": [
+        {
+          "english": "The first task was simple. By contrast, the second was difficult.",
+          "chinese": "第一个任务很简单，相比之下，第二个很难。"
+        }
+      ],
+      "etymology": null,
+      "collocations": [
+        "by contrast with",
+        "in contrast"
+      ],
+      "family": [
+        "contrast",
+        "contrasting"
+      ],
+      "source": "Lexcope 原创生活短语 · CC BY-SA 4.0"
+    },
+    {
+      "term": "in the long run",
+      "ipa": "/ɪn ðə lɒŋ rʌn/",
+      "meaning": "从长远来看",
+      "definition": "Over a long period rather than immediately.",
+      "examples": [
+        {
+          "english": "Regular practice helps in the long run.",
+          "chinese": "长期来看，经常练习会有帮助。"
+        }
+      ],
+      "etymology": null,
+      "collocations": [
+        "benefit in the long run",
+        "save in the long run"
+      ],
+      "family": [
+        "long"
+      ],
+      "source": "Lexcope 原创生活短语 · CC BY-SA 4.0"
+    }
+  ],
+  "decks": [
+    {
+      "id": "ngsl-starter",
+      "title": "生活核心词",
+      "subtitle": "NGSL 1.2 · 24 个入门选词",
+      "wordIDs": [
+        "remember",
+        "opportunity",
+        "available",
+        "approach",
+        "benefit",
+        "improve",
+        "essential",
+        "environment",
+        "knowledge",
+        "achieve",
+        "experience",
+        "reliable",
+        "appointment",
+        "choice",
+        "journey",
+        "purchase",
+        "recommend",
+        "prefer",
+        "arrange",
+        "borrow",
+        "return",
+        "afford",
+        "community",
+        "habit"
+      ],
+      "source": "Browne, Culligan & Phillips · NGSL 1.2 · CC BY-SA 4.0",
+      "isBuiltIn": true
+    },
+    {
+      "id": "pte-starter",
+      "title": "PTE 学术入门",
+      "subtitle": "NAWL 1.2 · 16 个备考选词 · 非官方词库",
+      "wordIDs": [
+        "allocate",
+        "absorb",
+        "accumulate",
+        "accuracy",
+        "adjacent",
+        "agriculture",
+        "analogy",
+        "arbitrary",
+        "artificial",
+        "biodiversity",
+        "cognitive",
+        "coherent",
+        "compensate",
+        "consensus",
+        "conservation",
+        "contradict"
+      ],
+      "source": "NAWL 1.2 摘选，Lexcope 编排 · CC BY-SA 4.0",
+      "isBuiltIn": true
+    },
+    {
+      "id": "ielts-starter",
+      "title": "IELTS 学术入门",
+      "subtitle": "NAWL 1.2 · 16 个备考选词 · 非官方词库",
+      "wordIDs": [
+        "artificial",
+        "biodiversity",
+        "cognitive",
+        "coherent",
+        "compensate",
+        "consensus",
+        "conservation",
+        "contradict",
+        "correlate",
+        "empirical",
+        "explicit",
+        "facilitate",
+        "inference",
+        "methodology",
+        "quantitative",
+        "qualitative"
+      ],
+      "source": "NAWL 1.2 摘选，Lexcope 编排 · CC BY-SA 4.0",
+      "isBuiltIn": true
+    },
+    {
+      "id": "phrases-starter",
+      "title": "生活常用短语",
+      "subtitle": "12 个日常表达",
+      "wordIDs": [
+        "in advance",
+        "on behalf of",
+        "keep in mind",
+        "take part in",
+        "as a result",
+        "in terms of",
+        "make sense",
+        "take into account",
+        "from time to time",
+        "look forward to",
+        "by contrast",
+        "in the long run"
+      ],
+      "source": "Lexcope 原创编写 · CC BY-SA 4.0",
+      "isBuiltIn": true
+    }
+  ]
+}

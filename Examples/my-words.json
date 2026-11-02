@@ -1,0 +1,14 @@
+{
+  "title": "我的学习词集",
+  "words": [
+    {
+      "term": "resilient",
+      "ipa": "/rɪˈzɪliənt/",
+      "meaning": "有韧性的；恢复力强的",
+      "definition": "Able to recover after difficulty.",
+      "examples": [{"english": "A resilient team learns from setbacks.", "chinese": "有韧性的团队会从挫折中学习。"}],
+      "collocations": ["remain resilient", "a resilient community"],
+      "family": ["resilience"]
+    }
+  ]
+}
